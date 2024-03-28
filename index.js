@@ -65,8 +65,6 @@ const [, , , , , indg] = colors;
 
 const {muppetName, color, song, job, partner} = muppet;
 
-// Use destructuring to assign songs 2 and 4, and Kermit's job and partner
-
 const song2 = nestedMuppet.album.theMuppetMovie.song2;
 const song4 = nestedMuppet.album.theMuppetMovie.song4;
 const nestedJob = nestedMuppet.nestedJob;
